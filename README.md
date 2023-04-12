@@ -7,3 +7,4 @@
 ## Acknowledge
 
 - 所有在数据比赛中分享知识的选手
+- inspired by [砍手豪](https://www.zhihu.com/column/c_32887913)
