@@ -6,7 +6,7 @@
 - 为什么不用别的办法做
 
 
-这是一份数据竞赛方案与技巧合集，如果你正在参加比赛或学习一个方向，建议浏览相关比赛方案并实践该三层境界。<br>
+这是一份数据比赛方案与技巧合集，参加比赛或学习一个方向时，建议浏览比赛方案并实践三层境界。<br>
 
 - 阅读在线书籍 [https://hongyingyue.gitbook.io/competitions-solution/](https://hongyingyue.gitbook.io/competitions-solution/)
 
@@ -24,5 +24,5 @@
 
 ## Acknowledgements
 
-- 很多领域我本身并不熟悉，感谢所有在数据比赛中分享知识的选手。也欢迎大家和我一起完善该资料。
-- inspired by [砍手豪](https://www.zhihu.com/column/c_32887913)
+- 每个数据、每个任务都有自己独特的魅力，很多领域我本身并不熟悉，感谢所有在比赛中分享知识的选手。
+- 也欢迎大家和我一起完善该仓库的资料，inspired by [砍手豪](https://www.zhihu.com/column/c_32887913)
